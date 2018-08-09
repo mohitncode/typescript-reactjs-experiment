@@ -1,0 +1,37 @@
+{
+  "name": "typescript-reactjs-experiment",
+  "version": "1.0.0",
+  "description": "A basic experiment using ReactJS and TypeScript to see how well they meld.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "magic": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitncode/typescript-reactjs-experiment.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "TypeScript",
+    "JavaScript",
+    "App"
+  ],
+  "author": "Mohit Delhiwala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohitncode/typescript-reactjs-experiment/issues"
+  },
+  "homepage": "https://github.com/mohitncode/typescript-reactjs-experiment#readme",
+  "dependencies": {
+    "@types/react": "^16.4.8",
+    "@types/react-dom": "^16.0.7",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {}
+}
